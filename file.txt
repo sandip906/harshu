@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Version 1
+=======
+Hello
+New feature
+>>>>>>> 24c26f8cef6bff50fc98666be256f70f709c7006
