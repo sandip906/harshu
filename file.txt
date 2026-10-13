@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-Version 1
-Version 2
-New feature
-=======
-<<<<<<< HEAD
-Version 1
-=======
-Hello
-New feature
->>>>>>> 24c26f8cef6bff50fc98666be256f70f709c7006
->>>>>>> 7affff470d724e268c00c0c60327e51ba0fdc32c
+Hello GitHub
